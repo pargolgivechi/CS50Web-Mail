@@ -1,0 +1,42 @@
+textarea {
+    min-height: 400px;
+}
+
+.m-r {
+    margin-right: 10px;
+}
+
+.newDiv {
+    padding: 20px;
+    padding-right: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.newDiv span {
+    width: 20%;
+    padding-left: 10px;
+}
+
+.newDiv:hover {
+    cursor: pointer;
+}
+
+#emails-view .detail {
+    border: 1px solid #e5e5e5;
+    padding: 40px; 
+    margin-top: 30px
+}
+
+.detail div {
+    padding-bottom: 5px;
+}
+
+.detail .btn-warning {
+    margin-left: 10px;
+}
+
+
+
+
+
